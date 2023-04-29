@@ -360,6 +360,1278 @@
       "recipients": 150,
       "status": "Live"
     }
+  ],
+  "broadcasts": [
+    {
+      "brands": "brandOne",
+      "day": "This week",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "48"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "01"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "38"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "09"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "00"
+        }
+      ]
+    },
+    {
+      "brands": "brandOne",
+      "day": "This month",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "6708"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "4061"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "3568"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "4609"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "370"
+        }
+      ]
+    },
+    {
+      "brands": "brandOne",
+      "day": "Last month",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "78"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "85848501"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "589854"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "497374"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "3583670"
+        }
+      ]
+    },
+    {
+      "brands": "brandOne",
+      "day": "This year",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "89843678"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "498401"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "9543358"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "48985809"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "3054500"
+        }
+      ]
+    },
+    {
+      "brands": "brandOne",
+      "day": "Last year",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "6895948578"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "495945401"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "3058"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "408749"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "8832400"
+        }
+      ]
+    },
+    {
+      "brands": "brandTwo",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "748"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "571"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "45"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "69"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "40"
+        }
+      ]
+    },
+    {
+      "brands": "brandThree",
+      "data":[
+        {
+          "name": "Broadcasts",
+          "description": "Total broadcast by",
+          "total": "78"
+        },
+        {
+          "name": "Running",
+          "description": "Total broadcast by",
+          "total": "671"
+        },
+        {
+          "name": "Completed",
+          "description": "Total broadcast by",
+          "total": "405"
+        },
+        {
+          "name": "Scheduled",
+          "description": "Total broadcast by",
+          "total": "699"
+        },
+        {
+          "name": "Draft",
+          "description": "Total broadcast by",
+          "total": "460"
+        }
+      ]
+    }
+  ],
+  "summaryData": [
+    {
+      "brands": "brandOne",
+      "data": [
+        {
+          "name": "Campaigns",
+          "value": {
+            "thisWeek": [
+              83,
+              573,
+              93,
+              65,
+              34,
+              75,
+              167
+            ],
+            "lastWeek": [
+              430,
+              2984,
+              324,
+              42,
+              45,
+              34,
+              2032
+            ],
+            "last2Week": [
+              680,
+              984,
+              362,
+              4286,
+              566,
+              394,
+              20032
+            ],
+            "last2Month": [
+              680,
+              984,
+              362,
+              4286,
+              566,
+              394,
+              20032
+            ],
+            "thisMonth": [
+              6760,
+              984,
+              3862,
+              45542,
+              45776,
+              3497,
+              20632
+            ],
+            "lastMonth": [
+              4640,
+              2684,
+              652,
+              42,
+              45,
+              6754,
+              9032
+            ],
+            "thisYear": [
+              65350,
+              985464,
+              72868,
+              6542,
+              46745,
+              37864,
+              2032
+            ],
+            "lastYear": [
+              13460,
+              22984,
+              7632,
+              867542,
+              5345,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 1090,
+            "lastWeek": 800,
+            "last2Week": 169434,
+            "thisMonth": 434842,
+            "lastMonth": 112932,
+            "last2Month": 564,
+            "thisYear": 19273,
+            "lastYear": 1004283
+          }
+        },
+        {
+          "name": "Leads",
+          "value": {
+            "thisWeek": [
+              52,
+              627,
+              838,
+              472,
+              33,
+              83,
+              67
+            ],
+            "last2Month": [
+              6890,
+              984,
+              3692,
+              46,
+              5696,
+              394,
+              2032
+            ],
+            "lastWeek": [
+              430,
+              2984,
+              324,
+              42,
+              45,
+              34,
+              2032
+            ],
+            "last2Week": [
+              680,
+              984,
+              362,
+              4286,
+              566,
+              394,
+              20032
+            ],
+            "thisMonth": [
+              6760,
+              984,
+              3862,
+              45542,
+              45776,
+              3497,
+              20632
+            ],
+            "lastMonth": [
+              4640,
+              2684,
+              652,
+              42,
+              45,
+              6754,
+              9032
+            ],
+            "thisYear": [
+              65350,
+              985464,
+              72868,
+              6542,
+              46745,
+              37864,
+              2032
+            ],
+            "lastYear": [
+              13460,
+              22984,
+              7632,
+              867542,
+              5345,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 2172,
+            "lastWeek": 1000,
+            "last2Week": 16434,
+            "thisMonth": 134842,
+            "lastMonth": 312932,
+            "last2Month": 843932,
+            "thisYear": 199273,
+            "lastYear": 1004283
+          }
+        },
+        {
+          "name": "Delivered",
+          "value": {
+            "thisWeek": [
+              23,
+              87,
+              53,
+              533,
+              94,
+              23,
+              20
+            ],
+            "last2Month": [
+              6800,
+              9846,
+              362,
+              486,
+              566,
+              394,
+              22032
+            ],
+            "lastWeek": [
+              4030,
+              294,
+              329,
+              142,
+              245,
+              374,
+              32
+            ],
+            "last2Week": [
+              6890,
+              94,
+              362,
+              286,
+              5606,
+              394,
+              50032
+            ],
+            "thisMonth": [
+              5760,
+              884,
+              32862,
+              542,
+              5776,
+              3497,
+              632
+            ],
+            "lastMonth": [
+              460,
+              26484,
+              6527,
+              42,
+              45,
+              674,
+              9032
+            ],
+            "thisYear": [
+              95350,
+              5464,
+              7868,
+              4542,
+              46745,
+              37864,
+              2032
+            ],
+            "lastYear": [
+              13460,
+              2284,
+              7632,
+              7542,
+              545,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 833,
+            "lastWeek": 1000,
+            "last2Week": 16434,
+            "thisMonth": 134842,
+            "lastMonth": 312932,
+            "last2Month": 83932,
+            "thisYear": 199273,
+            "lastYear": 1004283
+          }
+        },
+        {
+          "name": "Opened",
+          "value": {
+            "thisWeek": [
+              50,
+              74,
+              32,
+              427,
+              95,
+              34,
+              232
+            ],
+            "last2Month": [
+              80,
+              984,
+              3627,
+              4286,
+              566,
+              394,
+              244032
+            ],
+            "lastWeek": [
+              60,
+              984,
+              32,
+              42,
+              45,
+              34,
+              2032
+            ],
+            "last2Week": [
+              680,
+              984,
+              3562,
+              4286,
+              4566,
+              34,
+              2032
+            ],
+            "thisMonth": [
+              6760,
+              984,
+              3862,
+              45542,
+              45776,
+              3497,
+              20632
+            ],
+            "lastMonth": [
+              4640,
+              2684,
+              652,
+              42,
+              45,
+              6754,
+              9032
+            ],
+            "thisYear": [
+              65350,
+              985464,
+              72868,
+              6542,
+              46745,
+              37864,
+              2032
+            ],
+            "lastYear": [
+              13460,
+              22984,
+              7632,
+              867542,
+              5345,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 559,
+            "lastWeek": 1000,
+            "last2Week": 2434,
+            "thisMonth": 64842,
+            "lastMonth": 312932,
+            "last2Month": 843932,
+            "thisYear": 6399273,
+            "lastYear": 74283
+          }
+        },
+        {
+          "name": "Clicked",
+          "value": {
+            "thisWeek": [
+              65293,
+              17,
+              53,
+              246349,
+              12643,
+              8754345,
+              39
+            ],
+            "last2Month": [
+              6890,
+              984,
+              362,
+              42786,
+              566,
+              3894,
+              20032
+            ],
+            "lastWeek": [
+              40030,
+              2904,
+              3929,
+              1642,
+              245,
+              30874,
+              32
+            ],
+            "last2Week": [
+              6890,
+              94,
+              362,
+              286,
+              5606,
+              394,
+              50032
+            ],
+            "thisMonth": [
+              5760,
+              884,
+              3282,
+              542,
+              576,
+              34977,
+              6732
+            ],
+            "lastMonth": [
+              4760,
+              2484,
+              56527,
+              442,
+              45,
+              6674,
+              32
+            ],
+            "thisYear": [
+              5350,
+              546,
+              788,
+              45492,
+              46745,
+              3864,
+              2032
+            ],
+            "lastYear": [
+              134060,
+              284,
+              37632,
+              7542,
+              545,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 9078669,
+            "lastWeek": 10000,
+            "last2Week": 5434,
+            "thisMonth": 34842,
+            "last2Month": 8488932,
+            "lastMonth": 312932,
+            "thisYear": 1399273,
+            "lastYear": 94283
+          }
+        },
+        {
+          "name": "Bounced",
+          "value": {
+            "thisWeek": [
+              92,
+              25,
+              89,
+              43,
+              97,
+              54,
+              29
+            ],
+            "last2Month": [
+              580,
+              984,
+              362,
+              4286,
+              5566,
+              394,
+              80032
+            ],
+            "lastWeek": [
+              430,
+              24,
+              929,
+              12,
+              2495,
+              874,
+              32
+            ],
+            "last2Week": [
+              6890,
+              94,
+              362,
+              286,
+              5606,
+              394,
+              50032
+            ],
+            "thisMonth": [
+              560,
+              884,
+              282,
+              52,
+              57,
+              977,
+              6732
+            ],
+            "lastMonth": [
+              4760,
+              2484,
+              5657,
+              442,
+              45,
+              66749,
+              32
+            ],
+            "thisYear": [
+              5050,
+              546,
+              7888,
+              45492,
+              46745,
+              3864,
+              2032
+            ],
+            "lastYear": [
+              13406,
+              284,
+              3762,
+              7542,
+              545,
+              9834,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 429,
+            "lastWeek": 10000,
+            "last2Week": 56434,
+            "thisMonth": 334842,
+            "last2Month": 3932,
+            "lastMonth": 312932,
+            "thisYear": 1299273,
+            "lastYear": 104283
+          }
+        }
+      ]
+    },
+    {
+      "brands": "brandTwo",
+      "data": [
+        {
+          "name": "Campaigns",
+          "value": {
+            "thisWeek": [
+              95,
+              9733,
+              6383,
+              86,
+              39,
+              3335,
+              87
+            ],
+            "last2Month": [
+              680,
+              984,
+              362,
+              4286,
+              5669,
+              3994,
+              2032
+            ],
+            "lastWeek": [
+              4306,
+              2464,
+              9279,
+              12,
+              2495,
+              874,
+              32
+            ],
+            "last2Week": [
+              680,
+              94,
+              3626,
+              2846,
+              606,
+              394,
+              50032
+            ],
+            "thisMonth": [
+              560,
+              884,
+              282,
+              5642,
+              57,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              6649,
+              32
+            ],
+            "thisYear": [
+              50523,
+              546,
+              788,
+              45492,
+              4745,
+              38664,
+              2032
+            ],
+            "lastYear": [
+              13406,
+              2484,
+              3762,
+              756442,
+              545,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 19758,
+            "last2Month": 843932,
+            "lastWeek": 10000,
+            "last2Week": 5643,
+            "thisMonth": 34842,
+            "lastMonth": 312932,
+            "thisYear": 129273,
+            "lastYear": 10784283
+          }
+        },
+        {
+          "name": "Leads",
+          "value": {
+            "thisWeek": [
+              72,
+              527,
+              758,
+              472,
+              33,
+              73,
+              67
+            ],
+            "last2Month": [
+              6809,
+              984,
+              362,
+              42869,
+              566,
+              394,
+              80032
+            ],
+            "lastWeek": [
+              406,
+              24649,
+              979,
+              128,
+              2495,
+              8740,
+              32
+            ],
+            "last2Week": [
+              6860,
+              94,
+              326,
+              2846,
+              606,
+              394,
+              5032
+            ],
+            "thisMonth": [
+              5660,
+              884,
+              282,
+              5642,
+              57,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              6649,
+              32
+            ],
+            "thisYear": [
+              50523,
+              5846,
+              788,
+              45492,
+              4745,
+              38664,
+              2032
+            ],
+            "lastYear": [
+              1406,
+              2484,
+              3762,
+              756442,
+              545,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 294,
+            "lastWeek": 1000,
+            "last2Month": 84932,
+            "last2Week": 543,
+            "thisMonth": 34842,
+            "lastMonth": 312932,
+            "thisYear": 1299973,
+            "lastYear": 1074283
+          }
+        },
+        {
+          "name": "Delivered",
+          "value": {
+            "thisWeek": [
+              883,
+              77,
+              53,
+              333,
+              904,
+              23,
+              20
+            ],
+            "last2Month": [
+              80,
+              984,
+              362,
+              46,
+              566,
+              394,
+              90032
+            ],
+            "lastWeek": [
+              406,
+              2449,
+              979,
+              128,
+              2495,
+              8740,
+              32
+            ],
+            "last2Week": [
+              6860,
+              94,
+              326,
+              2846,
+              606,
+              394,
+              5032
+            ],
+            "thisMonth": [
+              5660,
+              884,
+              282,
+              5642,
+              57,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              6649,
+              32
+            ],
+            "thisYear": [
+              50523,
+              5846,
+              788,
+              45492,
+              4745,
+              38664,
+              2032
+            ],
+            "lastYear": [
+              1406,
+              2484,
+              3762,
+              756442,
+              545,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 7894345,
+            "lastWeek": 6500,
+            "last2Month": 8993932,
+            "last2Week": 5843,
+            "thisMonth": 7534842,
+            "lastMonth": 312932,
+            "thisYear": 129973,
+            "lastYear": 1974283
+          }
+        },
+        {
+          "name": "Opened",
+          "value": {
+            "thisWeek": [
+              90,
+              74,
+              32,
+              42,
+              55,
+              34,
+              32
+            ],
+            "last2Month": [
+              680,
+              984,
+              362,
+              4286,
+              566,
+              394,
+              20032
+            ],
+            "lastWeek": [
+              406,
+              24497,
+              979,
+              128,
+              2495,
+              8740,
+              32
+            ],
+            "last2Week": [
+              6860,
+              94,
+              326,
+              2846,
+              606,
+              394,
+              5032
+            ],
+            "thisMonth": [
+              5660,
+              884,
+              282,
+              5642,
+              57,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              6649,
+              32
+            ],
+            "thisYear": [
+              50523,
+              5846,
+              788,
+              492,
+              4745,
+              3864,
+              2032
+            ],
+            "lastYear": [
+              1406,
+              284,
+              3762,
+              7562,
+              5459,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 89534,
+            "lastWeek": 6500,
+            "last2Month": 84393,
+            "last2Week": 55843,
+            "thisMonth": 751234842,
+            "lastMonth": 312932,
+            "thisYear": 129973,
+            "lastYear": 1974283
+          }
+        },
+        {
+          "name": "Clicked",
+          "value": {
+            "thisWeek": [
+              650,
+              67,
+              53,
+              246,
+              16,
+              87,
+              39
+            ],
+            "last2Month": [
+              6980,
+              984,
+              362,
+              42869,
+              566,
+              399,
+              20032
+            ],
+            "lastWeek": [
+              406,
+              2497,
+              979,
+              1208,
+              2495,
+              8740,
+              32
+            ],
+            "last2Week": [
+              6860,
+              94,
+              9326,
+              2846,
+              606,
+              394,
+              532
+            ],
+            "thisMonth": [
+              5660,
+              884,
+              282,
+              5642,
+              597,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              6649,
+              32
+            ],
+            "thisYear": [
+              5523,
+              5846,
+              788,
+              492,
+              4745,
+              3864,
+              2032
+            ],
+            "lastYear": [
+              1406,
+              284,
+              3762,
+              7562,
+              5459,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 5354,
+            "lastWeek": 6500,
+            "last2Week": 5543,
+            "last2Month": 8932,
+            "thisMonth": 1234842,
+            "lastMonth": 31232,
+            "thisYear": 129973,
+            "lastYear": 1974283
+          }
+        },
+        {
+          "name": "Bounced",
+          "value": {
+            "thisWeek": [
+              102,
+              25,
+              89,
+              430,
+              97,
+              54,
+              29
+            ],
+            "last2Month": [
+              680,
+              984,
+              362,
+              4286,
+              566,
+              394,
+              20032
+            ],
+            "lastWeek": [
+              406,
+              297,
+              979,
+              1208,
+              2495,
+              8740,
+              32
+            ],
+            "last2Week": [
+              6860,
+              94,
+              9326,
+              2846,
+              606,
+              3949,
+              532
+            ],
+            "thisMonth": [
+              566,
+              8874,
+              282,
+              5642,
+              597,
+              977,
+              732
+            ],
+            "lastMonth": [
+              86760,
+              2484,
+              5657,
+              442,
+              45,
+              664,
+              32
+            ],
+            "thisYear": [
+              5523,
+              5846,
+              788,
+              492,
+              47456,
+              3864,
+              2032
+            ],
+            "lastYear": [
+              1406,
+              284,
+              3762,
+              7562,
+              5459,
+              983,
+              2032
+            ]
+          },
+          "total": {
+            "thisWeek": 43,
+            "lastWeek": 6500,
+            "last2Week": 5543,
+            "last2Month": 843932,
+            "thisMonth": 1234842,
+            "lastMonth": 31232,
+            "thisYear": 129973,
+            "lastYear": 1974283
+          }
+        }
+      ]
+    }
   ]
-
 }
